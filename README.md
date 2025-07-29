@@ -98,3 +98,9 @@ If you have any questions or want a more customized app for specific use cases, 
 
 - E-Mail: adamglab0731.pl@gmail.com
 - Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
+
+
+## 💝 Support This Project
+If you find this useful, consider supporting:
+- Crypto: `53UfwcwexQXUpznebBaXj4Ythdh22AB7DekdftN9vftp`
+- GitHub Sponsors: [Sponsor Me](https://github.com/sponsors)
